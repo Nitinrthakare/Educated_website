@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nitinrthakare.github.io/Educated_website/sitemap.xml
